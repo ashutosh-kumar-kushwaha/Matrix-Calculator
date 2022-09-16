@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Matrix Calculator</string>
+    <string name="rank">Rank</string>
+    <string name="enter_the_order_of_matrix">Enter the order of matrix</string>
+    <string name="next">Next</string>
+    <string name="x">X</string>
+    <string name="calculate_rank">Calculate Rank</string>
+    <string name="calculate_inverse">Calculate Inverse</string>
+    <string name="enter_matrix">Enter Matrix</string>
+    <string name="enter_the_order_for_matrix">Enter the order for matrix</string>
+    <string name="inverse">Inverse</string>
+</resources>
